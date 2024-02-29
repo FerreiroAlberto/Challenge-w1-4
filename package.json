@@ -1,0 +1,16 @@
+{
+  "name": "challenge04",
+  "version": "1.0.0",
+  "description": "Maquetación pets",
+  "main": "list.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Alberto Ferreiro",
+  "license": "ISC",
+  "type": "module",
+  "prettier": {
+    "singleQuote": true
+  }
+}
